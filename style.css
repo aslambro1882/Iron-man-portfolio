@@ -12,12 +12,12 @@ section{
     background-repeat: no-repeat;
 }
 .section-2{
-    background-image: url(/dream-bg.png);
+    background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
 .section-3{
-    background-image: url(/exp-bg.png);
+    background-image: url(exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
